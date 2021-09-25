@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyStarterPackTwo</string>
+
+    <string name="entryOne">First Name</string>
+    <string name="entryTwo">Last Name</string>
+    <string name="entryThree">Email</string>
+    <string name="entryFour">Password</string>
+    <string name="entryFive">Contact</string>
+    <string name="entrySix">First Name</string>
+    <string name="entrySeven">Last Name</string>
+    <string name="inputOne">First Name</string>
+    <string name="inputTwo">Last Name</string>
+    <string name="inputThree">Email</string>
+    <string name="inputFour">Password</string>
+    <string name="inputFive">Contact</string>
+    <string name="strangeInput">Last Name</string>
+</resources>
