@@ -59,6 +59,7 @@
         android:layout_below="@id/buttonAddArtistTwo"
         android:padding="@dimen/activity_horizontal_margin"
         android:text="Reviews"
+        android:background="#00ff00"
         android:textAlignment="center"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 

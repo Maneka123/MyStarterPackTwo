@@ -58,6 +58,7 @@
         android:layout_below="@id/buttonAddArtist"
         android:padding="@dimen/activity_horizontal_margin"
         android:text="Reviews already made by our customers"
+        android:background="#00ff00"
         android:textAlignment="center"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 

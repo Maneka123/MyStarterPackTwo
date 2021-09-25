@@ -36,6 +36,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/architects_daughter"
         android:text="WELCOME ADMIN !!!"
+        android:background="#00ff00"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/btnManageCustomer"

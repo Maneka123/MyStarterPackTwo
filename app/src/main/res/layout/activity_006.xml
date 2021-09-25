@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/architects_daughter"
         android:text="Admin can add customer here !!!"
+        android:background="#00ff00"
         android:textAlignment="center"
         android:textSize="34sp"
         android:textStyle="bold"
