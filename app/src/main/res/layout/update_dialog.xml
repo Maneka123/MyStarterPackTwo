@@ -22,6 +22,7 @@
         <Button
             android:id="@+id/buttonUpdateArtist"
             android:layout_width="wrap_content"
+            android:background="#ecd71e"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Update" />
@@ -30,6 +31,7 @@
             android:id="@+id/buttonDeleteArtist"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="#ecd71e"
             android:layout_weight="1"
             android:text="Delete" />
 
